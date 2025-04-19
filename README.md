@@ -55,7 +55,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Vashu2003/Vashu2003/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="" />
+  <source media="(prefers-color-scheme: light)" srcset="" />
+  <img alt="github-snake" src="" />
+</picture>
 
 ###
 <!--
